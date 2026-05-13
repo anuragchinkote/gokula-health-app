@@ -114,15 +114,24 @@ com.gokulahealth
 ---
 # Screenshots
 
-## Dashboard
+<h3 align="center">Farmer Dashboard</h3>
 
-![Dashboard.png](Screenshots/Dashboard.png)
+<p align="center">
+  <img src="Screenshots/Dashboard.png" width="230"/>
+</p>
 
-## Dairy
-![MilkDairy.png](Screenshots/MilkDairy.png)
+<h3 align="center">Milk Diary Tracking</h3>
 
-## Analytics
-![Analytics.png](Screenshots/Analytics.png)
+<p align="center">
+  <img src="Screenshots/MilkDairy.png" width="230"/>
+</p>
+
+<h3 align="center">Yield Analytics</h3>
+
+<p align="center">
+  <img src="Screenshots/Analytics.png" width="230"/>
+</p>
+
 ___
 #  Getting Started
 
